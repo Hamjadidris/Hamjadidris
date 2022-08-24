@@ -19,9 +19,9 @@ Here are some basic things to know about Hamjad;
 - ☁︎ I’m currently learning Fullstack Web Development,
 - ☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,
 <!--- 🤔 I’m looking for help with--> 
-- 💬 lets talk ☎︎,
-- 📫 How to reach me ✉︎: Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
-- 😄 Pronouns: He/Him,
+- 💬 <strong>lets talk ☎︎,</strong>
+- 📫 <strong>How to reach me ✉︎:</strong> Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
+- <strong>Pronouns:</strong> He/Him,
 - <strong>☂︎ Not-so-fun fact:</strong>existential dread is the fair price those who question pay.
 
 #### My Core Languages
