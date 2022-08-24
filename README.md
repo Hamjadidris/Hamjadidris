@@ -15,9 +15,9 @@
 #### About
 Here are some basic things to know about Hamjad;
 
-- ☁︎ Improving on my skills, determined to being the absolute best ,
-- ☁︎ I’m currently learning Fullstack Web Development,
-- ☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,
+- <strong>☁︎ Improving on my skills, determined to being the absolute best,</strong>
+- <strong>☁︎ I’m currently learning Fullstack Web Development,</strong>
+- <strong>☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,</strong>
 <!--- 🤔 I’m looking for help with--> 
 - 💬 <strong>lets talk ☎︎,</strong>
 - 📫 <strong>How to reach me ✉︎:</strong> Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
