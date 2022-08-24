@@ -15,14 +15,14 @@
 #### About
 Here are some basic things to know about Hamjad;
 
-- 🔭 I’m currently working on acquiring more skills,
-- 🌱 I’m currently learning Fullstack Web Development,
-- 👯 I’m looking to collaborate on projects,
+- ☀︎ Improving on my skills, determined to being the absolute best ,
+- ☼ I’m currently learning Fullstack Web Development,
+- ☀︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,
 <!--- 🤔 I’m looking for help with--> 
-- 💬 Ask me about anything,
-- 📫 How to reach me: Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
+- 💬 lets talk ☎︎,
+- 📫 How to reach me ✉︎: Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
 - 😄 Pronouns: He/Him,
-- ⚡ Fun fact: existential dread is the fair price those who question pay.
+-  ☔︎ existential dread is the fair price those who question pay.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
