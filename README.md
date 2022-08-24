@@ -15,7 +15,7 @@
 #### About
 Here are some basic things to know about Hamjad;
 
-- <strong>☁︎ Production ready full stack developer,</strong>
+- <strong>☁︎ Production-ready full stack developer,</strong>
 - <strong>☁︎ Improving on my skills, determined to being the absolute best,</strong>
 - <strong>☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,</strong>
 <!--- 🤔 I’m looking for help with--> 
