@@ -1,7 +1,7 @@
 <h1>Hi there 👋🏾</h1>
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hamjad-idris" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/hamjad-idris/">Hamjad Idris</a></div>
             
-<h1>Welcome,I'm HAMJAD</h1>
+<h1>Welcome, I'm HAMJAD</h1>
 
 ###   **What's my current role in tech?** </h2>
        { Web Developer || full-Stack Developer } 
@@ -15,14 +15,14 @@
 #### About
 Here are some basic things to know about Hamjad;
 
-- ☀︎ Improving on my skills, determined to being the absolute best ,
-- ☼ I’m currently learning Fullstack Web Development,
-- ☀︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,
+- ☁︎ Improving on my skills, determined to being the absolute best ,
+- ☁︎ I’m currently learning Fullstack Web Development,
+- ☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,
 <!--- 🤔 I’m looking for help with--> 
 - 💬 lets talk ☎︎,
 - 📫 How to reach me ✉︎: Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
 - 😄 Pronouns: He/Him,
--  ☔︎ existential dread is the fair price those who question pay.
+-  ☂︎ existential dread is the fair price those who question pay.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
