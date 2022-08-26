@@ -18,7 +18,7 @@ Here are some basic things to know about Hamjad;
 - <strong>☁︎ Production-ready full stack developer,</strong>
 - <strong>☁︎ Improving on my skills, determined to being the absolute best,</strong>
 - <strong>☁︎ Excited and looking forward to collaborate and work on all web related projects ⚛︎,</strong>
-<!--- 🤔 I’m looking for help with--> 
+ <!--- 🤔 I’m looking for help with--> 
 - 💬 <strong>lets talk ☎︎,</strong>
 - 📫 <strong>How to reach me ✉︎:</strong> Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
 - <strong>Pronouns:</strong> He/Him,
