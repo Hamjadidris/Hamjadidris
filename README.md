@@ -36,7 +36,7 @@ Here are some basic things to know about Hamjad;
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/api.jpg" width="70" title="API" /></code>
 <code><img src="images/json.png" width="70" title="JSON" /></code>
-<code><img src="images/nodemon.png" width="80" title="Nodemon"/></code>
+<code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 <code><img src="images/express.png" width="65" title="Express"/></code>
 
 #### Tools I Use
