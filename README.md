@@ -28,7 +28,7 @@ Here are some basic things to know about Hamjad;
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
-<code><img src="images/javascript.png" width="60" title="JavaScript"/></code>
+<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 
 #### Frameworks I Use
 <code><img src="images/B.png" width="70" title="Bootstrap"/></code>
