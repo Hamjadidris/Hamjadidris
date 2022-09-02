@@ -8,7 +8,7 @@
 
 
 #### Connect with me  
-<a href="https://www.linkedin.com/in/hamjad-idris/"><img src="images/linkedin.png" width="60"/></a>
+<a href="https://www.linkedin.com/in/hamjad-idris/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/yorubatechbro"><img src="images/twitter.png" width="60"/></a>
 
 
