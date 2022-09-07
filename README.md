@@ -3,7 +3,7 @@
             
 <h1>Welcome, I'm HAMJAD</h1>
 
-###   **What's my current role in tech?** </h2>
+###   **What's my current role in tech?**</h2>
        { Web Developer || full-Stack Developer }  
 
 
