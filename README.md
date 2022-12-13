@@ -22,7 +22,7 @@ Here are some basic things to know about Hamjad;
 - 💬 <strong>lets talk ☎︎,</strong>
 - 📫 <strong>How to reach me ✉︎:</strong> Email: dajmahsirdi@gmail.com, Phone: +2348127127270,
 - <strong>Pronouns:</strong> He/Him,
-- <strong>☂︎ Not-so-fun fact:</strong> existential dread is the fair price those who question pay.
+- <strong>☔︎ Not-so-fun fact:</strong> existential dread is the fair price those who question pay.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML"/></code>
